@@ -1,7 +1,7 @@
 // Api urls
 
-const IndexApi = "https://api.anime-dex.workers.dev/home";
-const recentapi = "https://api.anime-dex.workers.dev/recent/";
+const IndexApi = "https://nikhilvermaultimate.workers.dev/home";
+const recentapi = "https://nikhilvermaultimate.workers.dev/recent/";
 
 // Usefull functions
 
