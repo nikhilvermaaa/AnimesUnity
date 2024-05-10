@@ -1,6 +1,6 @@
-const animeapi = "https://nikhilvermaultimate.workers.dev/anime/";
-const episodeapi = "https://nikhilvermaultimate.workers.dev/episode/";
-const dlapi = "https://nikhilvermaultimate.workers.dev/download/";
+const animeapi = "https://api3.nikhilvermaultimate.workers.dev/anime/";
+const episodeapi = "https://api3.nikhilvermaultimate.workers.dev/episode/";
+const dlapi = "https://api3.nikhilvermaultimate.workers.dev/download/";
 
 // Usefull functions
 
