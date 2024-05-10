@@ -1,4 +1,4 @@
-const searchapi = "https://nikhilvermaultimate.workers.dev/search/";
+const searchapi = "https://api3.nikhilvermaultimate.workers.dev/search/";
 
 // Usefull functions
 
