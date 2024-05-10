@@ -1,7 +1,7 @@
 // Api urls
 
-const animeapi = "https://api.nikhilvermaultimate.workers.dev/anime/";
-const recommendationsapi = "https://api.nikhilvermaultimate.workers.dev/recommendations/";
+const animeapi = "https://api3.nikhilvermaultimate.workers.dev/anime/";
+const recommendationsapi = "https://api3.nikhilvermaultimate.workers.dev/recommendations/";
 
 // Usefull functions
 
