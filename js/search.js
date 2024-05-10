@@ -1,4 +1,4 @@
-const searchapi = "https://api.anime-dex.workers.dev/search/";
+const searchapi = "https://nikhilvermaultimate.workers.dev/search/";
 
 // Usefull functions
 
