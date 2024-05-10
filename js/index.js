@@ -1,7 +1,7 @@
 // Api urls
 
-const IndexApi = "https://nikhilvermaultimate.workers.dev/home";
-const recentapi = "https://nikhilvermaultimate.workers.dev/recent/";
+const IndexApi = "https://api3.nikhilvermaultimate.workers.dev/home";
+const recentapi = "https://api3.nikhilvermaultimate.workers.dev/recent/";
 
 // Usefull functions
 
